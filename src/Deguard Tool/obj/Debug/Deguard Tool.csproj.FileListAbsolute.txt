@@ -1,0 +1,101 @@
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\msedge.exe.config
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\msedge.exe
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\msedge.pdb
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Discord.Net.Commands.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Discord.Net.Core.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Discord.Net.Rest.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\MFT.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\Serilog.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Buffers.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Collections.Immutable.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Interactive.Async.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Linq.Async.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Memory.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\System.ValueTuple.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\bin\Debug\WindowsInput.xml
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.AssemblyReference.cache
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\msedge.exe.config
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.autoclean.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.automaticcleanreg.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.cleartraces.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.others.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.antiss.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.cheats.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.customcheatexecutor.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\KeyAuth.Login.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.destruct.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.everything.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Main.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.generalmenu.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Main_Menu_Buttons.winprefetch.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.Properties.Resources.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.regclean.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.shadowexplorer.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.settings.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard_Tool.tools.resources
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.GenerateResource.cache
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.CoreCompileInputs.cache
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.Fody.CopyLocal.cache
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\Deguard Tool.csproj.CopyComplete
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\msedge.exe
+C:\Users\fryda\source\repos\Deguard Tool\Deguard Tool\obj\Debug\msedge.pdb
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\msedge.exe.config
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\msedge.exe
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\msedge.pdb
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Discord.Net.Commands.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Discord.Net.Core.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Discord.Net.Rest.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Discord.Net.WebSocket.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\MFT.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Newtonsoft.Json.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\Serilog.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Buffers.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Collections.Immutable.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Interactive.Async.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Linq.Async.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Memory.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\System.ValueTuple.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\bin\Debug\WindowsInput.xml
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.AssemblyReference.cache
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.SuggestedBindingRedirects.cache
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\msedge.exe.config
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.autoclean.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.automaticcleanreg.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.cleartraces.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Anti_SS.others.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.antiss.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.cheats.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.customcheatexecutor.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.destruct.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.everything.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Main.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.generalmenu.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Main_Menu_Buttons.winprefetch.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.Properties.Resources.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.regclean.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.shadowexplorer.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.settings.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard_Tool.tools.resources
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.GenerateResource.cache
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.CoreCompileInputs.cache
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.Fody.CopyLocal.cache
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\Deguard Tool.csproj.CopyComplete
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\msedge.exe
+D:\Users\ianjk\Downloads\deguard-sourcecode\Deguard Tool\obj\Debug\msedge.pdb
